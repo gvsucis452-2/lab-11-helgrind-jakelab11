@@ -1,0 +1,10 @@
+* I don't think your response to 7.4 answers the question.
+
+* Look at 9.2 again.  There isn't a data race.
+
+* With respect to 10.2, are you saying that the improvement is only performance? That seems to contradict earlier answers.
+
+
+Please update.
+
+(p)
